@@ -2,6 +2,8 @@
 
 Clean Architecture in Flutter using Supabase, Bloc, Hive, Get_It & FpDart.
 
+![My Image](assets/blog_app.png)
+
 ## Features
 1. Authentication with Email & Password
 2. Blog Viewer Page
